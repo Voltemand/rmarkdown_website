@@ -1,3 +1,302 @@
 ]0;~/Documents/R/rmarkdownwebsite[?1034hmac: [Kmac: git init
 Initialized empty Git repository in /Users/jeffreypullin/Documents/R/rmarkdownwebsite/.git/
 ]0;~/Documents/R/rmarkdownwebsitemac: git add .
+]0;~/Documents/R/rmarkdownwebsitemac: git commit -m "first commit [K"
+[master (root-commit) 6b2908b] first commit
+ 78 files changed, 11262 insertions(+)
+ create mode 100644 .Rproj.user/709ED79D/console06/4FB8A2BB
+ create mode 100644 .Rproj.user/709ED79D/console06/INDEX001
+ create mode 100644 .Rproj.user/709ED79D/sources/prop/2817A3C
+ create mode 100644 .Rproj.user/709ED79D/sources/prop/293DF91D
+ create mode 100644 .Rproj.user/709ED79D/sources/prop/810D93B1
+ create mode 100644 .Rproj.user/709ED79D/sources/prop/INDEX
+ create mode 100644 .Rproj.user/709ED79D/sources/s-66ABACC1/1C5BA70A-contents
+ create mode 100644 .Rproj.user/709ED79D/sources/s-66ABACC1/73298E56-contents
+ create mode 100644 .Rproj.user/709ED79D/sources/s-66ABACC1/EDC05AEF
+ create mode 100644 .Rproj.user/709ED79D/sources/s-66ABACC1/EDC05AEF-contents
+ create mode 100644 .Rproj.user/709ED79D/sources/s-66ABACC1/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/14E6359C-about/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/A23C78CA-index/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 _site.yml
+ create mode 100644 _site/about.html
+ create mode 100644 _site/index.html
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css.map
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap.css.map
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/cerulean.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/cosmo.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/flatly.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Lato.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/LatoBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/LatoItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycle.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSans.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Raleway.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RalewayBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Roboto.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoLight.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Ubuntu.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/journal.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/lumen.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/paper.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/readable.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/sandstone.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/simplex.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/spacelab.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/united.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/css/yeti.min.css
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/js/bootstrap.js
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/js/bootstrap.min.js
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/js/npm.js
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/shim/html5shiv.min.js
+ create mode 100644 _site/site_libs/bootstrap-3.3.5/shim/respond.min.js
+ create mode 100644 _site/site_libs/highlightjs-9.12.0/default.css
+ create mode 100644 _site/site_libs/highlightjs-9.12.0/highlight.js
+ create mode 100644 _site/site_libs/highlightjs-9.12.0/textmate.css
+ create mode 100644 _site/site_libs/jquery-1.11.3/jquery.min.js
+ create mode 100644 _site/site_libs/navigation-1.1/codefolding.js
+ create mode 100644 _site/site_libs/navigation-1.1/sourceembed.js
+ create mode 100644 _site/site_libs/navigation-1.1/tabsets.js
+ create mode 100644 about.Rmd
+ create mode 100644 index.Rmd
+ create mode 100644 rmarkdownwebsite.Rproj
+]0;~/Documents/R/rmarkdownwebsitemac: echo "# rmarkdown_website" >> README.md
+]0;~/Documents/R/rmarkdownwebsitemac: echo "# rmarkdown_website" >> README.md
+]0;~/Documents/R/rmarkdownwebsitemac: 
+]0;~/Documents/R/rmarkdownwebsitemac: 
+]0;~/Documents/R/rmarkdownwebsitemac: echo "# rmarkdown_website" >> README.md[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add README.md 
+]0;~/Documents/R/rmarkdownwebsitemac: git commit -,[Km "add ReA[K[KEADME"
+[master c23937e] add README
+ 1 file changed, 2 insertions(+)
+ create mode 100644 README.md
+]0;~/Documents/R/rmarkdownwebsitemac: git [K[K[K[Kgit remote add origin git@github.com:Voltemand/rmarkdown_ website.git
+]0;~/Documents/R/rmarkdownwebsitemac: git push -u origin master
+Counting objects: 104, done.
+Delta compression using up to 4 threads.
+Compressing objects:   1% (1/93)   Compressing objects:   2% (2/93)   Compressing objects:   3% (3/93)   Compressing objects:   4% (4/93)   Compressing objects:   5% (5/93)   Compressing objects:   6% (6/93)   Compressing objects:   7% (7/93)   Compressing objects:   8% (8/93)   Compressing objects:   9% (9/93)   Compressing objects:  10% (10/93)   Compressing objects:  11% (11/93)   Compressing objects:  12% (12/93)   Compressing objects:  13% (13/93)   Compressing objects:  15% (14/93)   Compressing objects:  16% (15/93)   Compressing objects:  17% (16/93)   Compressing objects:  18% (17/93)   Compressing objects:  19% (18/93)   Compressing objects:  20% (19/93)   Compressing objects:  21% (20/93)   Compressing objects:  22% (21/93)   Compressing objects:  23% (22/93)   Compressing objects:  24% (23/93)   Compressing objects:  25% (24/93)   Compressing objects:  26% (25/93)   Compressing objects:  27% (26/93)   Compressing objects:  29% (27/93)   Compressing objects:  30% (28/93)   Compressing objects:  31% (29/93)   Compressing objects:  32% (30/93)   Compressing objects:  33% (31/93)   Compressing objects:  34% (32/93)   Compressing objects:  35% (33/93)   Compressing objects:  36% (34/93)   Compressing objects:  37% (35/93)   Compressing objects:  38% (36/93)   Compressing objects:  39% (37/93)   Compressing objects:  40% (38/93)   Compressing objects:  41% (39/93)   Compressing objects:  43% (40/93)   Compressing objects:  44% (41/93)   Compressing objects:  45% (42/93)   Compressing objects:  46% (43/93)   Compressing objects:  47% (44/93)   Compressing objects:  48% (45/93)   Compressing objects:  49% (46/93)   Compressing objects:  50% (47/93)   Compressing objects:  51% (48/93)   Compressing objects:  52% (49/93)   Compressing objects:  53% (50/93)   Compressing objects:  54% (51/93)   Compressing objects:  55% (52/93)   Compressing objects:  56% (53/93)   Compressing objects:  58% (54/93)   Compressing objects:  59% (55/93)   Compressing objects:  60% (56/93)   Compressing objects:  61% (57/93)   Compressing objects:  62% (58/93)   Compressing objects:  63% (59/93)   Compressing objects:  64% (60/93)   Compressing objects:  65% (61/93)   Compressing objects:  66% (62/93)   Compressing objects:  67% (63/93)   Compressing objects:  68% (64/93)   Compressing objects:  69% (65/93)   Compressing objects:  70% (66/93)   Compressing objects:  72% (67/93)   Compressing objects:  73% (68/93)   Compressing objects:  74% (69/93)   Compressing objects:  75% (70/93)   Compressing objects:  76% (71/93)   Compressing objects:  77% (72/93)   Compressing objects:  78% (73/93)   Compressing objects:  79% (74/93)   Compressing objects:  80% (75/93)   Compressing objects:  81% (76/93)   Compressing objects:  82% (77/93)   Compressing objects:  83% (78/93)   Compressing objects:  84% (79/93)   Compressing objects:  86% (80/93)   Compressing objects:  87% (81/93)   Compressing objects:  88% (82/93)   Compressing objects:  89% (83/93)   Compressing objects:  90% (84/93)   Compressing objects:  91% (85/93)   Compressing objects:  92% (86/93)   Compressing objects:  93% (87/93)   Compressing objects:  94% (88/93)   Compressing objects:  95% (89/93)   Compressing objects:  96% (90/93)   Compressing objects:  97% (91/93)   Compressing objects:  98% (92/93)   Compressing objects: 100% (93/93)   Compressing objects: 100% (93/93), done.
+Writing objects:   0% (1/104)   Writing objects:   1% (2/104)   Writing objects:   2% (3/104)   Writing objects:   3% (4/104)   Writing objects:   4% (5/104)   Writing objects:   5% (6/104)   Writing objects:   6% (7/104)   Writing objects:   7% (8/104)   Writing objects:   8% (9/104)   Writing objects:   9% (10/104)   Writing objects:  10% (11/104)   Writing objects:  11% (12/104)   Writing objects:  12% (13/104)   Writing objects:  13% (14/104)   Writing objects:  14% (15/104)   Writing objects:  15% (16/104)   Writing objects:  16% (17/104)   Writing objects:  17% (18/104)   Writing objects:  18% (19/104)   Writing objects:  19% (20/104)   Writing objects:  20% (21/104)   Writing objects:  21% (22/104)   Writing objects:  22% (23/104)   Writing objects:  23% (24/104)   Writing objects:  24% (25/104)   Writing objects:  25% (26/104)   Writing objects:  26% (28/104)   Writing objects:  27% (29/104)   Writing objects:  28% (30/104)   Writing objects:  29% (31/104)   Writing objects:  30% (32/104)   Writing objects:  31% (33/104)   Writing objects:  32% (34/104)   Writing objects:  33% (35/104)   Writing objects:  34% (36/104)   Writing objects:  35% (37/104)   Writing objects:  36% (38/104)   Writing objects:  37% (39/104)   Writing objects:  39% (41/104)   Writing objects:  43% (45/104)   Writing objects:  44% (46/104)   Writing objects:  45% (47/104)   Writing objects:  46% (48/104)   Writing objects:  47% (49/104)   Writing objects:  48% (50/104)   Writing objects:  49% (51/104)   Writing objects:  50% (52/104)   Writing objects:  51% (54/104)   Writing objects:  52% (55/104)   Writing objects:  53% (56/104)   Writing objects:  54% (57/104)   Writing objects:  55% (58/104)   Writing objects:  56% (59/104)   Writing objects:  57% (60/104)   Writing objects:  58% (61/104)   Writing objects:  59% (62/104)   Writing objects:  60% (63/104)   Writing objects:  61% (64/104)   Writing objects:  62% (65/104)   Writing objects:  63% (66/104)   Writing objects:  64% (67/104)   Writing objects:  65% (68/104)   Writing objects:  66% (69/104)   Writing objects:  67% (70/104)   Writing objects:  68% (71/104)   Writing objects:  69% (72/104)   Writing objects:  70% (73/104)   Writing objects:  71% (74/104)   Writing objects:  72% (75/104)   Writing objects:  73% (76/104)   Writing objects:  74% (77/104)   Writing objects:  75% (78/104)   Writing objects:  76% (80/104)   Writing objects:  77% (81/104)   Writing objects:  78% (82/104)   Writing objects:  79% (83/104)   Writing objects:  80% (84/104)   Writing objects:  81% (85/104)   Writing objects:  82% (86/104)   Writing objects:  83% (87/104)   Writing objects:  84% (88/104)   Writing objects:  85% (89/104)   Writing objects:  86% (90/104)   Writing objects:  87% (91/104)   Writing objects:  88% (92/104)   Writing objects:  89% (93/104)   Writing objects:  90% (94/104)   Writing objects:  91% (95/104)   Writing objects:  92% (96/104)   Writing objects:  93% (97/104)   Writing objects:  94% (98/104)   Writing objects:  95% (99/104)   Writing objects:  96% (100/104)   Writing objects:  97% (101/104)   Writing objects:  98% (102/104)   Writing objects:  99% (103/104)   Writing objects: 100% (104/104)   Writing objects: 100% (104/104), 905.70 KiB | 0 bytes/s, done.
+Total 104 (delta 16), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/16)   [Kremote: Resolving deltas:   6% (1/16)   [Kremote: Resolving deltas:  12% (2/16)   [Kremote: Resolving deltas:  18% (3/16)   [Kremote: Resolving deltas: 100% (16/16)   [Kremote: Resolving deltas: 100% (16/16), done.[K
+To github.com:Voltemand/rmarkdown_website.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;~/Documents/R/rmarkdownwebsitemac: git add README.md 
+]0;~/Documents/R/rmarkdownwebsitemac: git commit -m "change REAA[KDME [K"
+[master a1c92a0] change README
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+]0;~/Documents/R/rmarkdownwebsitemac: git push[K[K[K[K[K[K[K[Kgit commit -m "change README"[C[C[C[C[C[C[C[C[C[11Padd README.md [C[C[C[C[C[C[C[C[Cpush -u origin master[C[C[C[C[C[C[C[C[Cremote add origin git@github.com:Voltemand/rmarkdown_wwebsite.git[A[32Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 289 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:Voltemand/rmarkdown_website.git
+   c23937e..a1c92a0  master -> master
+Branch master set up to track remote branch master from origin.
+]0;~/Documents/R/rmarkdownwebsitemac: mkdir docs
+]0;~/Documents/R/rmarkdownwebsitemac: git mv _site docs
+]0;~/Documents/R/rmarkdownwebsitemac: git mv abot[Kut [K.html /docs [K/about [K.htma[Kl
+fatal: Could not switch to '/docs/': No such file or directory
+]0;~/Documents/R/rmarkdownwebsitemac: git [K[K[K[Kgit rm --cached
+usage: git rm [<options>] [--] <file>...
+
+    -n, --dry-run         dry run
+    -q, --quiet           do not list removed files
+    --cached              only remove from the index
+    -f, --force           override the up-to-date check
+    -r                    allow recursive removal
+    --ignore-unmatch      exit with a zero status even if nothing matched
+
+]0;~/Documents/R/rmarkdownwebsitemac: git stu[Katus
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mrenamed:    _site/about.html -> docs/_site/about.html[m
+	[32mrenamed:    _site/index.html -> docs/_site/index.html[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css -> docs/_site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css.map -> docs/_site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css.map[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/bootstrap.css -> docs/_site/site_libs/bootstrap-3.3.5/css/bootstrap.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/bootstrap.css.map -> docs/_site/site_libs/bootstrap-3.3.5/css/bootstrap.css.map[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/bootstrap.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/bootstrap.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/cerulean.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/cerulean.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/cosmo.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/cosmo.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/flatly.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/flatly.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/Lato.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/Lato.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/LatoBold.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/LatoBold.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/LatoItalic.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/LatoItalic.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycle.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycle.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSans.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSans.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/Raleway.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/Raleway.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/RalewayBold.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/RalewayBold.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/Roboto.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/Roboto.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoBold.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/RobotoBold.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoLight.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/RobotoLight.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/fonts/Ubuntu.ttf -> docs/_site/site_libs/bootstrap-3.3.5/css/fonts/Ubuntu.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/journal.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/journal.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/lumen.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/lumen.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/paper.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/paper.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/readable.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/readable.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/sandstone.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/sandstone.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/simplex.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/simplex.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/spacelab.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/spacelab.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/united.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/united.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/css/yeti.min.css -> docs/_site/site_libs/bootstrap-3.3.5/css/yeti.min.css[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot -> docs/_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg -> docs/_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf -> docs/_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff -> docs/_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2 -> docs/_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/js/bootstrap.js -> docs/_site/site_libs/bootstrap-3.3.5/js/bootstrap.js[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/js/bootstrap.min.js -> docs/_site/site_libs/bootstrap-3.3.5/js/bootstrap.min.js[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/js/npm.js -> docs/_site/site_libs/bootstrap-3.3.5/js/npm.js[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/shim/html5shiv.min.js -> docs/_site/site_libs/bootstrap-3.3.5/shim/html5shiv.min.js[m
+	[32mrenamed:    _site/site_libs/bootstrap-3.3.5/shim/respond.min.js -> docs/_site/site_libs/bootstrap-3.3.5/shim/respond.min.js[m
+	[32mrenamed:    _site/site_libs/highlightjs-9.12.0/default.css -> docs/_site/site_libs/highlightjs-9.12.0/default.css[m
+	[32mrenamed:    _site/site_libs/highlightjs-9.12.0/highlight.js -> docs/_site/site_libs/highlightjs-9.12.0/highlight.js[m
+	[32mrenamed:    _site/site_libs/highlightjs-9.12.0/textmate.css -> docs/_site/site_libs/highlightjs-9.12.0/textmate.css[m
+	[32mrenamed:    _site/site_libs/jquery-1.11.3/jquery.min.js -> docs/_site/site_libs/jquery-1.11.3/jquery.min.js[m
+	[32mrenamed:    _site/site_libs/navigation-1.1/codefolding.js -> docs/_site/site_libs/navigation-1.1/codefolding.js[m
+	[32mrenamed:    _site/site_libs/navigation-1.1/sourceembed.js -> docs/_site/site_libs/navigation-1.1/sourceembed.js[m
+	[32mrenamed:    _site/site_libs/navigation-1.1/tabsets.js -> docs/_site/site_libs/navigation-1.1/tabsets.js[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/709ED79D/console06/4FB8A2BB[m
+	[31mmodified:   .Rproj.user/709ED79D/sources/prop/INDEX[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/709ED79D/console06/4FB8A2BB.env[m
+	[31m.Rproj.user/709ED79D/sources/prop/6820BFDB[m
+	[31m.Rproj.user/709ED79D/sources/s-66ABACC1/45F01383[m
+	[31m.Rproj.user/709ED79D/sources/s-66ABACC1/45F01383-contents[m
+	[31m.Rproj.user/709ED79D/sources/s-66ABACC1/E05F93F5-contents[m
+
+]0;~/Documents/R/rmarkdownwebsitemac: git reset HEAD .
+Unstaged changes after reset:
+M	.Rproj.user/709ED79D/console06/4FB8A2BB
+M	.Rproj.user/709ED79D/sources/prop/INDEX
+D	_site/about.html
+D	_site/index.html
+D	_site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css
+D	_site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css.map
+D	_site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/bootstrap.css
+D	_site/site_libs/bootstrap-3.3.5/css/bootstrap.css.map
+D	_site/site_libs/bootstrap-3.3.5/css/bootstrap.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/cerulean.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/cosmo.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/flatly.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/Lato.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/LatoBold.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/LatoItalic.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycle.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSans.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/Raleway.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/RalewayBold.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/Roboto.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/RobotoBold.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/RobotoLight.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/fonts/Ubuntu.ttf
+D	_site/site_libs/bootstrap-3.3.5/css/journal.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/lumen.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/paper.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/readable.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/sandstone.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/simplex.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/spacelab.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/united.min.css
+D	_site/site_libs/bootstrap-3.3.5/css/yeti.min.css
+D	_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot
+D	_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg
+D	_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf
+D	_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff
+D	_site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2
+D	_site/site_libs/bootstrap-3.3.5/js/bootstrap.js
+D	_site/site_libs/bootstrap-3.3.5/js/bootstrap.min.js
+D	_site/site_libs/bootstrap-3.3.5/js/npm.js
+D	_site/site_libs/bootstrap-3.3.5/shim/html5shiv.min.js
+D	_site/site_libs/bootstrap-3.3.5/shim/respond.min.js
+D	_site/site_libs/highlightjs-9.12.0/default.css
+D	_site/site_libs/highlightjs-9.12.0/highlight.js
+D	_site/site_libs/highlightjs-9.12.0/textmate.css
+D	_site/site_libs/jquery-1.11.3/jquery.min.js
+D	_site/site_libs/navigation-1.1/codefolding.js
+D	_site/site_libs/navigation-1.1/sourceembed.js
+D	_site/site_libs/navigation-1.1/tabsets.js
+]0;~/Documents/R/rmarkdownwebsitemac: git rm docs[C docs- docsR docs[C docs
+error: unknown switch `R'
+usage: git rm [<options>] [--] <file>...
+
+    -n, --dry-run         dry run
+    -q, --quiet           do not list removed files
+    --cached              only remove from the index
+    -f, --force           override the up-to-date check
+    -r                    allow recursive removal
+    --ignore-unmatch      exit with a zero status even if nothing matched
+
+]0;~/Documents/R/rmarkdownwebsitemac: git rm -R  docs[1Pdocs[1Pdocs[1Pdocs4docs[1Pdocsrdocs docs
+fatal: pathspec 'docs' did not match any files
+]0;~/Documents/R/rmarkdownwebsitemac: git rm -r docs/docs
+fatal: /docs: '/docs' is outside repository
+]0;~/Documents/R/rmarkdownwebsitemac: git rm -r /docs[C[1Pdocs\docs
+fatal: pathspec 'docs' did not match any files
+]0;~/Documents/R/rmarkdownwebsitemac: git rm -r \docs[C[1Pdocs[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[Kowd
+bash: owd: command not found
+]0;~/Documents/R/rmarkdownwebsitemac: pwd
+/Users/jeffreypullin/Documents/R/rmarkdownwebsite
+]0;~/Documents/R/rmarkdownwebsitemac: rm -R -f focd
+]0;~/Documents/R/rmarkdownwebsitemac: rm -R -f focd[C[K[K[K[Ko[Kdocs
+]0;~/Documents/R/rmarkdownwebsitemac: git add .
