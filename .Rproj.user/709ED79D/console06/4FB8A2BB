@@ -300,3 +300,106 @@ bash: owd: command not found
 ]0;~/Documents/R/rmarkdownwebsitemac: rm -R -f focd
 ]0;~/Documents/R/rmarkdownwebsitemac: rm -R -f focd[C[K[K[K[Ko[Kdocs
 ]0;~/Documents/R/rmarkdownwebsitemac: git add .
+]0;~/Documents/R/rmarkdownwebsitemac: gt [Kt commit -m "update dirs"
+bash: gtt: command not found
+]0;~/Documents/R/rmarkdownwebsitemac: gtt commit -m "update dirs"[1P[1@i
+[master 159ea4b] update dirs
+ 66 files changed, 394 insertions(+), 11161 deletions(-)
+ create mode 100644 .Rproj.user/709ED79D/console06/4FB8A2BB.env
+ create mode 100644 .Rproj.user/709ED79D/sources/prop/6820BFDB
+ create mode 100644 .Rproj.user/709ED79D/sources/s-66ABACC1/45F01383
+ create mode 100644 .Rproj.user/709ED79D/sources/s-66ABACC1/45F01383-contents
+ create mode 100644 .Rproj.user/709ED79D/sources/s-66ABACC1/E05F93F5-contents
+ delete mode 100644 _site/about.html
+ delete mode 100644 _site/index.html
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.css.map
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap-theme.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap.css.map
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/bootstrap.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/cerulean.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/cosmo.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/flatly.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Lato.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/LatoBold.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/LatoItalic.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycle.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/NewsCycleBold.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSans.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBold.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansBoldItalic.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansItalic.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLight.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/OpenSansLightItalic.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Raleway.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RalewayBold.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Roboto.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoBold.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoLight.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/RobotoMedium.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansPro.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProBold.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProItalic.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/SourceSansProLight.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/fonts/Ubuntu.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/journal.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/lumen.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/paper.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/readable.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/sandstone.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/simplex.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/spacelab.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/united.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/css/yeti.min.css
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff2
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/js/bootstrap.js
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/js/bootstrap.min.js
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/js/npm.js
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/shim/html5shiv.min.js
+ delete mode 100644 _site/site_libs/bootstrap-3.3.5/shim/respond.min.js
+ delete mode 100644 _site/site_libs/highlightjs-9.12.0/default.css
+ delete mode 100644 _site/site_libs/highlightjs-9.12.0/highlight.js
+ delete mode 100644 _site/site_libs/highlightjs-9.12.0/textmate.css
+ delete mode 100644 _site/site_libs/jquery-1.11.3/jquery.min.js
+ delete mode 100644 _site/site_libs/navigation-1.1/codefolding.js
+ delete mode 100644 _site/site_libs/navigation-1.1/sourceembed.js
+ delete mode 100644 _site/site_libs/navigation-1.1/tabsets.js
+]0;~/Documents/R/rmarkdownwebsitemac: git commit -m "update dirs"[C[C[C[C[C[Ct[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cit add .[K[C[C[C[C[Crm -R -f docsfocd[C[C[C[C[Cpwd[Kowdgit rm -r \docs/docs[1Pdocs[1@R [C[C[C[C[Ceset HEAD .[C[C[C[C[C[C[C[C[C[6Pstatusrm --cached[C[C[C[C[C[C[C[C[Cmv about.html /docs/about.html[C[C[C[C[C[C[C[C[C[C[C[C[17P_site docs[C[C[C[C[C[7Pmkdir[C[C[C[C[C[C[C[C[C[Cgit push -u origin master[C[C[C[C[C[C[C[C[Ccommit -m "change README"[C[C[C[C[C[C[C[C[C[11Padd README.md [C[C[C[C[C[C[C[C[Ccommit -m "change README"[C[C[C[C[C[C[C[C[C[4Ppush -u origin master[1P[1P
+To github.com:Voltemand/rmarkdown_website.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:Voltemand/rmarkdown_website.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;~/Documents/R/rmarkdownwebsitemac: git push -f origin master
+Counting objects: 121, done.
+Delta compression using up to 4 threads.
+Compressing objects:   0% (1/108)   Compressing objects:   1% (2/108)   Compressing objects:   2% (3/108)   Compressing objects:   3% (4/108)   Compressing objects:   4% (5/108)   Compressing objects:   5% (6/108)   Compressing objects:   6% (7/108)   Compressing objects:   7% (8/108)   Compressing objects:   8% (9/108)   Compressing objects:   9% (10/108)   Compressing objects:  10% (11/108)   Compressing objects:  11% (12/108)   Compressing objects:  12% (13/108)   Compressing objects:  13% (15/108)   Compressing objects:  14% (16/108)   Compressing objects:  15% (17/108)   Compressing objects:  16% (18/108)   Compressing objects:  17% (19/108)   Compressing objects:  18% (20/108)   Compressing objects:  19% (21/108)   Compressing objects:  20% (22/108)   Compressing objects:  21% (23/108)   Compressing objects:  22% (24/108)   Compressing objects:  23% (25/108)   Compressing objects:  24% (26/108)   Compressing objects:  25% (27/108)   Compressing objects:  26% (29/108)   Compressing objects:  27% (30/108)   Compressing objects:  28% (31/108)   Compressing objects:  29% (32/108)   Compressing objects:  30% (33/108)   Compressing objects:  31% (34/108)   Compressing objects:  32% (35/108)   Compressing objects:  33% (36/108)   Compressing objects:  34% (37/108)   Compressing objects:  35% (38/108)   Compressing objects:  36% (39/108)   Compressing objects:  37% (40/108)   Compressing objects:  38% (42/108)   Compressing objects:  39% (43/108)   Compressing objects:  40% (44/108)   Compressing objects:  41% (45/108)   Compressing objects:  42% (46/108)   Compressing objects:  43% (47/108)   Compressing objects:  44% (48/108)   Compressing objects:  45% (49/108)   Compressing objects:  46% (50/108)   Compressing objects:  47% (51/108)   Compressing objects:  48% (52/108)   Compressing objects:  49% (53/108)   Compressing objects:  50% (54/108)   Compressing objects:  51% (56/108)   Compressing objects:  52% (57/108)   Compressing objects:  53% (58/108)   Compressing objects:  54% (59/108)   Compressing objects:  55% (60/108)   Compressing objects:  56% (61/108)   Compressing objects:  57% (62/108)   Compressing objects:  58% (63/108)   Compressing objects:  59% (64/108)   Compressing objects:  60% (65/108)   Compressing objects:  61% (66/108)   Compressing objects:  62% (67/108)   Compressing objects:  63% (69/108)   Compressing objects:  64% (70/108)   Compressing objects:  65% (71/108)   Compressing objects:  66% (72/108)   Compressing objects:  67% (73/108)   Compressing objects:  68% (74/108)   Compressing objects:  69% (75/108)   Compressing objects:  70% (76/108)   Compressing objects:  71% (77/108)   Compressing objects:  72% (78/108)   Compressing objects:  73% (79/108)   Compressing objects:  74% (80/108)   Compressing objects:  75% (81/108)   Compressing objects:  76% (83/108)   Compressing objects:  77% (84/108)   Compressing objects:  78% (85/108)   Compressing objects:  79% (86/108)   Compressing objects:  80% (87/108)   Compressing objects:  81% (88/108)   Compressing objects:  82% (89/108)   Compressing objects:  83% (90/108)   Compressing objects:  84% (91/108)   Compressing objects:  85% (92/108)   Compressing objects:  86% (93/108)   Compressing objects:  87% (94/108)   Compressing objects:  88% (96/108)   Compressing objects:  89% (97/108)   Compressing objects:  90% (98/108)   Compressing objects:  91% (99/108)   Compressing objects:  92% (100/108)   Compressing objects:  93% (101/108)   Compressing objects:  94% (102/108)   Compressing objects:  95% (103/108)   Compressing objects:  96% (104/108)   Compressing objects:  97% (105/108)   Compressing objects:  98% (106/108)   Compressing objects:  99% (107/108)   Compressing objects: 100% (108/108)   Compressing objects: 100% (108/108), done.
+Writing objects:   0% (1/121)   Writing objects:   1% (2/121)   Writing objects:   2% (3/121)   Writing objects:   3% (4/121)   Writing objects:   4% (6/121)   Writing objects:   5% (7/121)   Writing objects:   6% (8/121)   Writing objects:   7% (9/121)   Writing objects:   8% (10/121)   Writing objects:   9% (11/121)   Writing objects:  10% (13/121)   Writing objects:  11% (14/121)   Writing objects:  12% (15/121)   Writing objects:  13% (16/121)   Writing objects:  14% (17/121)   Writing objects:  15% (19/121)   Writing objects:  16% (20/121)   Writing objects:  17% (21/121)   Writing objects:  19% (23/121)   Writing objects:  20% (25/121)   Writing objects:  21% (26/121)   Writing objects:  22% (27/121)   Writing objects:  23% (28/121)   Writing objects:  24% (30/121)   Writing objects:  25% (31/121)   Writing objects:  26% (32/121)   Writing objects:  27% (33/121)   Writing objects:  28% (34/121)   Writing objects:  29% (36/121)   Writing objects:  30% (37/121)   Writing objects:  31% (38/121)   Writing objects:  32% (39/121)   Writing objects:  33% (40/121)   Writing objects:  34% (42/121)   Writing objects:  35% (43/121)   Writing objects:  36% (44/121)   Writing objects:  37% (45/121)   Writing objects:  38% (46/121)   Writing objects:  39% (48/121)   Writing objects:  40% (49/121)   Writing objects:  41% (50/121)   Writing objects:  42% (51/121)   Writing objects:  43% (53/121)   Writing objects:  44% (54/121)   Writing objects:  45% (55/121)   Writing objects:  47% (57/121)   Writing objects:  50% (61/121)   Writing objects:  51% (62/121)   Writing objects:  52% (63/121)   Writing objects:  53% (65/121)   Writing objects:  54% (66/121)   Writing objects:  55% (67/121)   Writing objects:  56% (68/121)   Writing objects:  57% (69/121)   Writing objects:  58% (71/121)   Writing objects:  59% (72/121)   Writing objects:  60% (73/121)   Writing objects:  61% (74/121)   Writing objects:  62% (76/121)   Writing objects:  63% (77/121)   Writing objects:  64% (78/121)   Writing objects:  65% (79/121)   Writing objects:  66% (80/121)   Writing objects:  67% (82/121)   Writing objects:  68% (83/121)   Writing objects:  69% (84/121)   Writing objects:  70% (85/121)   Writing objects:  71% (86/121)   Writing objects:  72% (88/121)   Writing objects:  73% (89/121)   Writing objects:  74% (90/121)   Writing objects:  75% (91/121)   Writing objects:  76% (92/121)   Writing objects:  77% (94/121)   Writing objects:  78% (95/121)   Writing objects:  79% (96/121)   Writing objects:  80% (97/121)   Writing objects:  81% (99/121)   Writing objects:  82% (100/121)   Writing objects:  83% (101/121)   Writing objects:  84% (102/121)   Writing objects:  85% (103/121)   Writing objects:  86% (105/121)   Writing objects:  87% (106/121)   Writing objects:  88% (107/121)   Writing objects:  89% (108/121)   Writing objects:  90% (109/121)   Writing objects:  91% (111/121)   Writing objects:  92% (112/121)   Writing objects:  93% (113/121)   Writing objects:  94% (114/121)   Writing objects:  95% (115/121)   Writing objects:  96% (117/121)   Writing objects:  97% (118/121)   Writing objects:  98% (119/121)   Writing objects:  99% (120/121)   Writing objects: 100% (121/121)   Writing objects: 100% (121/121), 912.09 KiB | 0 bytes/s, done.
+Total 121 (delta 22), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/22)   [Kremote: Resolving deltas:  13% (3/22)   [Kremote: Resolving deltas:  18% (4/22)   [Kremote: Resolving deltas:  22% (5/22)   [Kremote: Resolving deltas:  27% (6/22)   [Kremote: Resolving deltas:  31% (7/22)   [Kremote: Resolving deltas:  36% (8/22)   [Kremote: Resolving deltas:  40% (9/22)   [Kremote: Resolving deltas: 100% (22/22)   [Kremote: Resolving deltas: 100% (22/22), done.[K
+To github.com:Voltemand/rmarkdown_website.git
+ + cf28519...159ea4b master -> master (forced update)
+]0;~/Documents/R/rmarkdownwebsitemac: rmarkdown::render_site()
+> 
+]0;~/Documents/R/rmarkdownwebsitemac: 
+]0;~/Documents/R/rmarkdownwebsitemac: 
+]0;~/Documents/R/rmarkdownwebsitemac: 
+]0;~/Documents/R/rmarkdownwebsitemac: git mv do[K[K[K /site [K /docs
+fatal: /site: '/site' is outside repository
+]0;~/Documents/R/rmarkdownwebsitemac: git mv /site /docs[1@_
+fatal: /_site: '/_site' is outside repository
+]0;~/Documents/R/rmarkdownwebsitemac: git mv /_site /docs[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kadd s[K_site
+]0;~/Documents/R/rmarkdownwebsitemac: ig[K[Kfit [K[K[K[Kgit mv _site [K[K[K[K[K[K\_site [K docs/docs
+fatal: /docs: '/docs' is outside repository
+]0;~/Documents/R/rmarkdownwebsitemac: git mv \_site /docs[1P[1@/
+fatal: /_site: '/_site' is outside repository
+]0;~/Documents/R/rmarkdownwebsitemac: git mv /_site /docs[1Pdocs[1P
+]0;~/Documents/R/rmarkdownwebsitemac: gt[Kit add .
