@@ -209,6 +209,14 @@ $(document).ready(function () {
 <pre class="r"><code>ggplot2::qplot(rnorm(100))</code></pre>
 <pre><code>## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.</code></pre>
 <p><img src="about_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<p>Let’s put in more R</p>
+<pre class="r"><code>add &lt;- function(x, y){
+  x + y
+}
+
+if (add(2, 2) == 4)
+  cat(&quot;success!&quot;)</code></pre>
+<pre><code>## success!</code></pre>
 
 
 
